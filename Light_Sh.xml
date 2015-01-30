@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_repeat" id="64" inline="true" x="-11" y="-2">
+  <block type="controls_repeat" id="64" inline="true" x="-234" y="-9">
     <value name="TIMES">
       <block type="math_number" id="71">
         <field name="NUM">100</field>
@@ -61,6 +61,11 @@
             <field name="NUM">5</field>
           </block>
         </value>
+        <next>
+          <block type="multimedia_playwav" id="139">
+            <field name="WAV">applause2_x</field>
+          </block>
+        </next>
       </block>
     </next>
   </block>
