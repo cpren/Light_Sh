@@ -53,5 +53,10 @@
         </next>
       </block>
     </statement>
+    <next>
+      <block type="led_select" id="125" inline="true">
+        <field name="ACTION">OFF</field>
+      </block>
+    </next>
   </block>
 </xml>
