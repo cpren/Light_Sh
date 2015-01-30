@@ -63,7 +63,7 @@
         </value>
         <next>
           <block type="multimedia_playwav" id="139">
-            <field name="WAV">applause2_x</field>
+            <field name="WAV">C:\Users\Logics Staff-02\Desktop\applause2_x</field>
           </block>
         </next>
       </block>
