@@ -10,7 +10,7 @@
         <field name="OBJECT">GREEN</field>
         <next>
           <block type="led_select" id="28" inline="true">
-            <field name="ACTION">ON</field>
+            <field name="ACTION">OFF</field>
             <value name="LED">
               <block type="math_number" id="109">
                 <field name="NUM">5</field>
