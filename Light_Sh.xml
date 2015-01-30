@@ -11,6 +11,11 @@
         <next>
           <block type="led_select" id="28" inline="true">
             <field name="ACTION">ON</field>
+            <value name="LED">
+              <block type="math_number" id="109">
+                <field name="NUM">5</field>
+              </block>
+            </value>
             <next>
               <block type="robot_delay" id="30" inline="true">
                 <value name="DELAY">
@@ -24,6 +29,11 @@
                     <next>
                       <block type="led_select" id="48" inline="true">
                         <field name="ACTION">ON</field>
+                        <value name="LED">
+                          <block type="math_number" id="116">
+                            <field name="NUM">5</field>
+                          </block>
+                        </value>
                         <next>
                           <block type="robot_delay" id="50" inline="true">
                             <value name="DELAY">
