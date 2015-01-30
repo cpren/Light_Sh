@@ -2,7 +2,7 @@
   <block type="controls_repeat" id="64" inline="true" x="-11" y="-2">
     <value name="TIMES">
       <block type="math_number" id="71">
-        <field name="NUM">20</field>
+        <field name="NUM">100</field>
       </block>
     </value>
     <statement name="DO">
@@ -20,7 +20,7 @@
               <block type="robot_delay" id="30" inline="true">
                 <value name="DELAY">
                   <block type="math_number" id="78">
-                    <field name="NUM">70</field>
+                    <field name="NUM">5</field>
                   </block>
                 </value>
                 <next>
@@ -38,7 +38,7 @@
                           <block type="robot_delay" id="50" inline="true">
                             <value name="DELAY">
                               <block type="math_number" id="92">
-                                <field name="NUM">70</field>
+                                <field name="NUM">5</field>
                               </block>
                             </value>
                           </block>
