@@ -63,7 +63,7 @@
         </value>
         <next>
           <block type="multimedia_playwav" id="139">
-            <field name="WAV">audtst07.wav</field>
+            <field name="WAV">applude2_x.wav</field>
           </block>
         </next>
       </block>
